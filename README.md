@@ -1,9 +1,7 @@
 # mgfwebdevproject
 
+Skill Test Assessment
 
-Skill Test Assesment
-
-```markdown
 # MGF Web Developer Exercise
 
 This project illustrates a contacts web application built with Laravel 12 and SQLite.
@@ -28,4 +26,3 @@ The application makes use of 2 models, controllers, and has 5 main views/pages d
 
 5. **Report Page – `/contacts/report`**  
    Displays a summary of contacts based on post code.
-```
