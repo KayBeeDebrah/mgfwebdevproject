@@ -27,5 +27,5 @@ The application makes use of 2 models, controllers, and has 5 main views/pages d
 5. **Report Page – `/contacts/report`**  
    Displays a summary of contacts based on post code.
 
-6. **Unit Test – **  
+6. **Unit Test –**  
    A unit test is then conducted to assess the validation of contacts creation and updates.
